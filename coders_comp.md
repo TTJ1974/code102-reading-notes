@@ -1,7 +1,7 @@
-# what is a text editor?
+ what is a text editor?
   A piece of software that allows you to write and manage text, primarily for web  developement.
 
-  ## **FEATURES**
+   **FEATURES**
   * Code Completion
   * syntax highlighting
   * cool themes
