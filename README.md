@@ -8,7 +8,7 @@ Well I think Growth mindset is in simple terms. An approach to self growth that 
 
 Table of Contents
 * [read 1](markdown.md)
-* read 2
+* [read 2](coders_comp.md)
 * read 3
 * read 4
 * read 5
