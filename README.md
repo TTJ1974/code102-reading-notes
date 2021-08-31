@@ -1,4 +1,4 @@
-# reading-notes
+# READING-NOTES
 reading notes page for codefellows
 
 ## GROWTH MINDSET
