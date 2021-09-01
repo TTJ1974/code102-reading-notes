@@ -9,7 +9,7 @@ Table of Contents
 * [read 1](markdown.md)
 * [read 2](coders_comp.md)
 * [read 3](rev_cloud.md)
-* [read 4]()
+* [read 4](html.md)
 * [read 5]()
 * [read 6]()
 * [read 7]()
