@@ -1,7 +1,7 @@
 ## What is CSS
   CSS helps you to create great-looking web pages by defining rules that your webpage will use.
 
-## CSS example
+### CSS example
   " h1 { color: red; font-size 5em;}"
     In this example your h1 text would be red with a text size of 5em.
 
