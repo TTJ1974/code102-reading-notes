@@ -11,7 +11,7 @@ Table of Contents
 * [read 3](rev_cloud.md)
 * [read 4](html.md)
 * [read 5](css.md)
-* [read 6]()
+* [read 6](java.md)
 * [read 7]()
 * [read 8]()
 
