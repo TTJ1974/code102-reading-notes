@@ -12,7 +12,7 @@ Table of Contents
 * [read 4](html.md)
 * [read 5](css.md)
 * [read 6](java.md)
-* [read 7]()
+* [read 7](pjava.md)
 * [read 8]()
 
 ## GROWTH MINDSET
