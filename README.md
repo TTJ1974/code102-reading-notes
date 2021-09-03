@@ -13,7 +13,7 @@ Table of Contents
 * [read 5](css.md)
 * [read 6](java.md)
 * [read 7](pjava.md)
-* [read 8]()
+* [read 8](opersloops.md)
 * [growth mindset](growthm.md)
 
 
