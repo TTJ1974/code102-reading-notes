@@ -6,6 +6,7 @@ Hello everyone ! My name is John Tucker. I'm an Army Vet with 5 deployments unde
 reading notes page for codefellows
 
 Table of Contents
+
 * [read 1](markdown.md)
 * [read 2](coders_comp.md)
 * [read 3](rev_cloud.md)
@@ -15,6 +16,28 @@ Table of Contents
 * [read 7](pjava.md)
 * [read 8](opersloops.md)
 * [growth mindset](growthm.md)
+
+## CODE 201 READING NOTES
+
+Table of Contents
+
+* [read 1]
+* [read 2]
+* [read 3]
+* [read 4]
+* [read 5]
+* [read 6]
+* [read 7]
+* [read 8]
+* [read 9]
+* [read 10]
+* [read 1]1
+* [read 12]
+* [read 13]
+* [read 14]
+* [read 15]
+
+
 
 
 
