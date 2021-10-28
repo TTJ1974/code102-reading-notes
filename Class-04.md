@@ -18,5 +18,5 @@ and object is a series of variables and functions that represent something from 
 ## Pair programing
 is an interesing way to learn, you take a partner one writes the code while you both bounce through ideas and proper syntax. It seems to improve, listening, speaking, readig, and writing. Its more efficient, you can bounce ideas off eachother, helps with social skills, and your interview skills, and over all rediness in your coding carreer.
 
-Most of the material that is written here is from:javascript&jquery, and html&css by john duckett. additionally 
+Most of the material that is written here is from:javascript&jquery, and html&css by john duckett. additionally, the web article
 6 Reasons for Pair Programming By allie grampa.
