@@ -24,7 +24,7 @@ Table of Contents
 * [read 1]
 * [read 2]
 * [read 3]
-* [read 4]
+* [read 4](Class-04.md)
 * [read 5]
 * [read 6]
 * [read 7]
