@@ -10,3 +10,13 @@ The anchor element is used to create hyperlinks between a source anchor and a de
 
 JavaScript functions are reusable blocks of code that perform a specific task, taking some form of input and returning an output. Once a JS function is defined (declared), you can use it by referencing its name with parentheses ( ) right after. Note that a function doesn’t have to have parameters - they can simply be left blank in the parentheses: There can be zero, one, or multiple arguments in a function. If your function takes more than one argument, simply separate them with a comma inside of the parentheses. You can refer to the "addTwoNumbers" function at the top of this page for an example.
  Functions are great for efficiency
+
+ ## CSS
+
+ CSS stands for Cascading Style Sheets. It is the language for describing the presentation of Web pages, including colours, layout, and fonts, thus making our web pages presentable to the users.
+
+CSS is designed to make style sheets for the web. It is independent of HTML and can be used with any XML-based markup language. Now let’s try to break the acronym:
+
+        Cascading: Falling of Styles
+        Style: Adding designs/Styling our HTML tags
+        Sheets: Writing our style in different documents
