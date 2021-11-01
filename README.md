@@ -25,8 +25,8 @@ Table of Contents
 * [read 2](Class-02.md)
 * [read 3]
 * [read 4](Class-04.md)
-* [read 5]
-* [read 6]
+* [read 5](Class-05.md)
+* [read 6](Class-06.md)
 * [read 7]
 * [read 8]
 * [read 9]
