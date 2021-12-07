@@ -6,8 +6,7 @@ The reason why puzzles like this one are so hard, is because you can’t really 
 
 Programming is easy if you can understand the problem domain.
 
-Courtesy of https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming
-
+Courtesy of <https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming>
 
 ## values
 
@@ -20,5 +19,4 @@ Understanding how these operations work can be confusing for newcomers to JavaSc
 Developing a strong grasp of primitive values, object references, and mutability is a critical step in progressing past the beginner stages of JavaScript programming.
 This knowledge will help you identify bugs, understand key differences in programming paradigms, and help you understand your code at a deeper level.
 
-courtesy of https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b
-
+courtesy of <https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b>
