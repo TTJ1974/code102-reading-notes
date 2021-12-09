@@ -28,7 +28,7 @@ Table of Contents
 * [read 5](class-05.md)
 * [read 6](Class-06.md)
 * [read 7](Class-07.md)
-* [read 8]
+* [read 8](Class-08.md)
 * [read 9]
 * [read 10]
 * [read 11]
