@@ -23,7 +23,7 @@ Table of Contents
 
 * [read 1](Class-01.md)
 * [read 2](Class-02.md)
-* [read 3]
+* [read 3](Class-03.md)
 * [read 4](Class-04.md)
 * [read 5](class-05.md)
 * [read 6](Class-06.md)
